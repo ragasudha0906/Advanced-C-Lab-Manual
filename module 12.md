@@ -172,6 +172,7 @@ Output:
 
 
 Result:
+
 Thus, the program to pop an element from the given stack using liked list is verified successfully.
 
  
@@ -261,6 +262,7 @@ Output:
 
 
 Result:
+
 Thus, the program to display queue elements using linked list is verified successfully.
 
 
