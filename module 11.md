@@ -293,5 +293,3 @@ Result:
 
 Thus, the program that counts the number of words in a given sentence is verified successfully.
 
-Thus, the program that counts the number of words in a given sentence is verified 
-successfully.
